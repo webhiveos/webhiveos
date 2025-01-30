@@ -12,7 +12,7 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Our CEO</b>
-Arjun Agarwal, is a digital marketing professional skilled in campaign optimization, content creation, and brand storytelling. Based in the UAE at Web Hive Ltd, focuses on innovative strategies to boost brand visibility and audience engagement.
+Evan Zorich, is a digital marketing professional skilled in campaign optimization, content creation, and brand storytelling. Based in the UAE at Web Hive Ltd, focuses on innovative strategies to boost brand visibility and audience engagement.
 
 <br>
 
