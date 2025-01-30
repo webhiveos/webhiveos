@@ -1,32 +1,32 @@
 ![](https://komarev.com/ghpvc/?username=alamin2731&style=flat&color=blue)
 
-<h1 align="center">Hi!,  I'm Alamin <img src=
-"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Who's Behind WebHive OS
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Computer+Science+Student;Android+Developer;Compititive+Programmer;ML+Enthusiast;Web+Designer;web+developer;Growing+Ethical+Hacker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Competitive+Programmers;LMM+Enthusiasts;Web+Designers;Web+Developers)](https://git.io/typing-svg)
 </div>
-<p align="center" >
- <img  height="280rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
- </p>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am Al-Amin, a student and tech enthusiast with a passion for software development. Constantly exploring new technologies and embracing challenges, I thrive in the dynamic world of technology. With a focus on collaboration and community support, I strive to inspire others to push their boundaries and pursue greatness. Let's create innovative solutions together!
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/416c9324-132e-4e93-a259-cd7e7fe40d2f" width="300">
+</p>
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Our CEO</b>
+Arjun Agarwal, is a digital marketing professional skilled in campaign optimization, content creation, and brand storytelling. Based in the UAE at Web Hive Ltd, focuses on innovative strategies to boost brand visibility and audience engagement.
 
 <br>
 
   
 
 
- -  🔭 I’m currently working on something cool 😉
-
-- 👯 I’m looking forward to collaborate on python projects.
-
-- 🌱 Learning about Computer Vision and Machine Learning stuff
+- Digital Marketing Expert – Specializes in campaign optimization, content creation, and brand
 
 
-- 💬 Ask me about anything, I am happy to help, only if the ball is in my court!😉
+- Strategic Growth Focus – Helps businesses enhance visibility and audience engagement through data-driven strategies.
+
+
+- Based in the UAE – Works at Web Hive Ltd, leveraging innovative digital solutions to drive results.
+
 
 
 <br>
@@ -40,31 +40,18 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 <p align="center"><!-----Social Accounts------>
 
 <p align="center">
- <a href="">
- <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
+ 
 
  <a href="https://www.linkedin.com/in/alamin20/">
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
- <a href="https://twitter.com/">
+ <a href="https://x.com/WebHiveOS">
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
- <a href="https://www.instagram.com/">
- <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
- </a>
-
- <a href="https://t.me/alamin2me">
- <img border="0" alt="Hrugved's TG" src="https://img.icons8.com/doodle/40/000000/telegram-app.png"/>
- </a>
-
- <a href="https://discord.com/invite/5RmW6dZKpe6">
- <img border="0" alt="HrugVed (He/Him)#8131" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
- </a>
- <a href="mailto:alamin.contact24@gmail.com">
+ <a href="mailto:webhiveOS@outlook.com">
  <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
  </a>
 </p>
@@ -354,28 +341,4 @@ I am Al-Amin, a student and tech enthusiast with a passion for software developm
 
 
 
-<br> 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=alamin2731&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=alamin2731&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
-<br>
-
-## <b>💪Quote || Fact</b>
-<br>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines="First,+solve+the+problem.+Then,+write+the+code".;++"Great+Developers+never+stop+learning".)](https://git.io/typing-svg)
-
-<br>
-
-#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
-
-
------
-Credits: [Alamin](https://github.com/alamin2731)
-
-Last Edited on: 27/06/2023
