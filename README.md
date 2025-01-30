@@ -31,7 +31,7 @@ Arjun Agarwal, is a digital marketing professional skilled in campaign optimizat
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Contacts</b>
 
  
  
