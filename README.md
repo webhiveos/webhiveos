@@ -42,7 +42,7 @@ Dean Simon is a technology entrepreneur and AI strategist leading WebHive Ltd. B
 
  
 
- <a href="https://www.linkedin.com/in/alamin20/">
+ <a href="https://www.linkedin.com/in/dean-simon-92b69830/">
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
