@@ -12,20 +12,20 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Our CEO</b>
-Evan Zorich, is a digital marketing professional skilled in campaign optimization, content creation, and brand storytelling. Based in the UAE at Web Hive Ltd, focuses on innovative strategies to boost brand visibility and audience engagement.
+Evan Zorich is a technology entrepreneur and AI strategist leading WebHive Ltd. Based in the UAE, he specializes in AI-driven automation, browser technology, and seamless web interactions. With a vision to redefine how users engage with the internet, Evan focuses on building innovative solutions that enhance productivity and streamline online workflows.
 
 <br>
 
   
 
 
-- Digital Marketing Expert – Specializes in campaign optimization, content creation, and brand
+- AI & Automation Expert – Specializes in AI-driven web automation, browser technology, and seamless online interactions.
 
 
-- Strategic Growth Focus – Helps businesses enhance visibility and audience engagement through data-driven strategies.
+- Innovation & Growth Focus – Develops solutions to enhance productivity and streamline digital workflows.
 
 
-- Based in the UAE – Works at Web Hive Ltd, leveraging innovative digital solutions to drive results.
+- Based in the UAE – Leads WebHive Ltd., pioneering intelligent automation for a smarter web experience.
 
 
 
