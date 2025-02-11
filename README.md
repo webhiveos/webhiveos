@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/416c9324-132e-4e93-a259-cd7e7fe40d2f" width="300">
+ 
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Our CEO</b>
