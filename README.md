@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Competitive+Programmers;LMM+Enthusiasts;Web+Designers;Web+Developers)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/abb137f5-9c4d-479e-8861-13f8001d7832" width="250">
-</p>
+
 </div>
 
 
