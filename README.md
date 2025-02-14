@@ -5,8 +5,8 @@
 <div align="center" style="border: px solid #000000;>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Competitive+Programmers;LMM+Enthusiasts;Web+Designers;Web+Developers)](https://git.io/typing-svg)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a655d78c-a765-49a1-a44c-d7c1c6d8d302" width="250">
+
+  
 
 </div>
 
